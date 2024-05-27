@@ -1,4 +1,5 @@
 /*
+注意：请使用c++11编译本程序（编译参数：-std=c++11）
 本项目已开源至：https://github.com/linrongda/fta
 */
 
